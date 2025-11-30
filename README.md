@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-
 ## 🏆 GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=endast)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Streak stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=endast)](https://git.io/streak-stats)
