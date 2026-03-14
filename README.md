@@ -1,7 +1,4 @@
-# Hi there 👋
-
-
-
+# Hej! 🦕
 
 
 <!--
@@ -18,9 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## 🏆 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=endast)](https://github.com/ryo-ma/github-profile-trophy)
-
